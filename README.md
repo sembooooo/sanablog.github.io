@@ -1,3 +1,2 @@
-"# sanablog.github.io" 
-"# sanablog.github.io" 
-"# sanablog.github.io" 
+# Readme 
+This is for all the blog activities.
